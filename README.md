@@ -1,2 +1,0 @@
-# CheckoutPage
-Created with CodeSandbox

@@ -1,0 +1,12 @@
+* {
+  font-family: "Raleway, Source Sans Pro, Verdana, Helvetica", sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.clearSides {
+  padding: 0;
+  margin: 0;
+}
